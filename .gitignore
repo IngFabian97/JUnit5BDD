@@ -1,0 +1,30 @@
+# Archivos y carpetas generados por Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Archivos de configuración de IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+.vscode/
+*.class
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de pruebas y reportes
+cucumber-report.html
+cucumber/
+*.json
+
+# Archivos de respaldo
+*.bak
+*.swp
