@@ -12,5 +12,5 @@ Scenario: Verificar el ultimo elemento de la lista de monstruos
 
 Scenario: Verificar la longitud de la lista de monstruos
     Given Leo la lista de monstruos
-    When Obtengo ela longitud de la lista
+    When Obtengo la longitud de la lista
     Then La longitud de la lista es 14
